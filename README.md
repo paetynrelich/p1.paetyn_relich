@@ -15,8 +15,8 @@ Video
 ![IMG_9455](https://user-images.githubusercontent.com/85192568/192843292-5b1dbfe9-ecf8-4029-88fa-560077f2a74b.jpg)
 ![IMG_9458](https://user-images.githubusercontent.com/85192568/192843295-d6549bf3-3df3-4600-9191-de9f40298fef.jpg)
 
-http://g.recordit.co/ePpMBxJoOD.gif
-<img src="http://g.recordit.co/dXeL72WkIE.gif" width="250"><br>
+![dXeL72WkIE](https://user-images.githubusercontent.com/85192568/192862176-82f7267e-3dbd-49d4-ac28-ddf8a3adbc59.gif)
+
 
 An issue with the current design of the elevator is the user must press 2 buttons to go up or down one floor. The user must first push the button to either go up one floor or down one floor, then once inside must again press the button for the floor. With an elevator that only has 2 floors this seems redundant. This design follows the design of every elevator but could be streamlined and improved to make it easier for the user. 
 
