@@ -2,7 +2,7 @@
 
 # Links
 
-Presentation: https://paetynrelich.github.io/p1.paetyn_relich/
+[Presentation](https://paetynrelich.github.io/p1.paetyn_relich/)
 
 GitHub Repository: <https://github.com/paetynrelich/p1.paetyn_relich>
 
