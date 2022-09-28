@@ -6,9 +6,7 @@ Presentation:
 
 GitHub Repository: https://github.com/paetynrelich/p1.paetyn_relich 
 
-Demo: 
-
-Video
+Demo: https://paetynrelich.github.io/
 
 # Getting C:
 
