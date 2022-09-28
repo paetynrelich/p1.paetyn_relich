@@ -4,9 +4,9 @@
 
 Presentation: https://paetynrelich.github.io/p1.paetyn_relich/
 
-GitHub Repository: https://github.com/paetynrelich/p1.paetyn_relich 
+GitHub Repository: <https://github.com/paetynrelich/p1.paetyn_relich>
 
-Demo: https://paetynrelich.github.io/
+Demo: <https://paetynrelich.github.io/>
 
 # Getting C:
 
