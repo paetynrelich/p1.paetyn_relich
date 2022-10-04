@@ -42,6 +42,6 @@ Sketch:
 
 # Getting A:
 
-See the demo link!
+![demo](https://user-images.githubusercontent.com/85192568/192883444-a343ab08-cf4c-49ce-b8e0-49810dfbe66a.gif)
 
 
